@@ -60,11 +60,11 @@ Guía paso a paso para levantar el proyecto en un entorno local.
 
 1.  Clona el repositorio:
     ```bash
-    git clone https://github.com/Estefaniavago/logiflow-Backend.git
+    git clone https://github.com/Vane-SDev/LogiFlow-Backend.git
     ```
 2.  Navega al directorio del proyecto:
     ```bash
-    cd logiflow-Backend
+    cd LogiFlow-Backend
     ```
 3.  Instala las dependencias de Node.js:
     ```bash
